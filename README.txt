@@ -5,5 +5,5 @@ SIMPLE PLATFORMER GAME IN JAVASCRIPT
 
 Instruction just enter your name and play...
 Beat the timer in lowest possible time and collect all coins.
-
+Built using..... HTML5, CSS3, Sprites, JS, React.JS
 Thank You
